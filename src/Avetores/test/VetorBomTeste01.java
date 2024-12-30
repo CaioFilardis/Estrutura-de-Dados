@@ -18,5 +18,7 @@ public class VetorBomTeste01 {
         vetor.adicionar01("Sim");
         vetor.adicionar01("Não");
         vetor.adicionar01("Talvez");
+
+
     }
 }
